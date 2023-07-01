@@ -1,1 +1,1 @@
-# SHA-256-Hash-Implementation
+# SHA-256-Hash-Implementation using C
